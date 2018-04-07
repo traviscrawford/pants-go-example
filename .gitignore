@@ -2,4 +2,5 @@
 .idea/
 .pants.d/
 .pants.workdir.file_lock
+.pants.workdir.file_lock.lock_message
 dist/
