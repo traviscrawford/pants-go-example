@@ -1,0 +1,4 @@
+.idea/
+.pants.d/
+.pants.workdir.file_lock
+dist/
