@@ -3,6 +3,7 @@
 
 go_library(
   dependencies=[
-    'src/go/libD',
+    'src/go/src/libD',
+    'src/go/src/libE',
   ]
 )
